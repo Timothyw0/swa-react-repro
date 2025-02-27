@@ -24,9 +24,9 @@
         "allow-credentials": false
       },
       "authentication": {
-        "provider": "Simulator"
+        "provider": "StaticWebApps"
       },
-      "mode": "development"
+      "mode": "production"
     }
   },
   "entities": {
